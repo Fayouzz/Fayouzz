@@ -1,5 +1,6 @@
 <img src = "https://komarev.com/ghpvc/?username=Fayouzz&color=orange&style=flat-square" alt ="Profile+Views">
-<p align="left"> 
+<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chappufayouz)
 <div>
 
   ## 📊 &nbsp;Stats

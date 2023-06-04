@@ -1,6 +1,8 @@
 <img src = "https://komarev.com/ghpvc/?username=Fayouzz&color=orange&style=flat-square" alt ="Profile+Views">
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chappufayouz)
+ <a href="https://www.linkedin.com/in/chappufayouz/">
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <div>
 
   ## 📊 &nbsp;Stats

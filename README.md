@@ -1,7 +1,7 @@
 <img src = "https://komarev.com/ghpvc/?username=Fayouzz&color=blue&style=flat-square" alt ="Profile+Views">
 <p align="left">
  <a href="https://www.linkedin.com/in/chappufayouz/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chappu.fayouz.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fayouz_)
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div>
 

@@ -3,6 +3,9 @@
  <a href="https://www.linkedin.com/in/chappufayouz/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ <a href="https://x.com/fayouz_/">
+    <img src="https://img.shields.io/badge/twitter-blue?&logo=Twitter&logoColor=white" alt="X Badge"/>
+  </a>
 <div>
 
   ## 📊 &nbsp;Stats

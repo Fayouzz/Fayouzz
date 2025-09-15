@@ -4,7 +4,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <a href="https://x.com/fayouz_/">
-    <img src="https://img.shields.io/badge/twitter-blue?&logo=Twitter&logoColor=white" alt="X Badge"/>
+<!--     <img src="https://img.shields.io/badge/twitter-blue?&logo=Twitter&logoColor=white" alt="X Badge"/> -->
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffayouz_" alt="X Badge"/>
+
   </a>
 <div>
 

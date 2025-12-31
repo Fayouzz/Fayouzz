@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffayouz_" alt="X Badge"/>
 
   </a>
-<div>
+<!-- <div>
 
   ## 📊 &nbsp;Stats
   <a href="https://github.com/Fayouzz">
@@ -17,4 +17,4 @@
   <a href="https://github.com/Fayouzz">
     <img align="center" alt="Fayouzz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayouzz&theme=gruvbox&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-</div>
+</div> -->
